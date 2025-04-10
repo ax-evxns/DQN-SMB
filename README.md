@@ -1,6 +1,6 @@
 # 🕹️ Deep Q-Learning for Super Mario Bros
 
-A Deep Q-Network (DQN) implementation trained to play **Super Mario Bros** using PyTorch and OpenAI Gym. The agent learns to complete levels using only screen frames as input, and reaches consistent flag captures in under 2500 episodes.
+A Deep Q-Network (DQN) implementation trained to play **Super Mario Bros** using PyTorch and OpenAI Gym. The agent learns to complete levels using only screen frames as input and reaches consistent flag captures in 2500-4000 episodes.
 
 ![Mario Gameplay](gif/mario.gif) 
 
